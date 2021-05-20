@@ -41,10 +41,10 @@
 <body>
 	<form action="" method="">
 		<input type="text" name="userId" id="userId">
-		<input type="button" value="확인" onclick="checkID()"><br>
+		<input type="button" value="ID확인" onclick="checkID()"><br>
 		<span id="message"></span><br>
 		<input type="password" name="pwd" id="pwd">
-		<input type="submit" value="login">
+		<input type="submit" value="회원가입">
 	</form>
 </body>
 </html>

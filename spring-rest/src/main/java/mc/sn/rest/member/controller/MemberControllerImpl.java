@@ -40,6 +40,7 @@ public class MemberControllerImpl   implements MemberController {
 			if(vo!=null) {
 				result="true";
 			}
+			result = "{result:"+result+"}";
 		return result;
 	}
 
