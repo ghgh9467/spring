@@ -4,6 +4,6 @@
 
 <configuration>
 	<typeAliases>
-		<typeAlias type="mc.sn.review.member.vo.MemberVO"  alias="memberVO" />
+		<typeAlias type="mc.sn.rest.member.vo.MemberVO"  alias="memberVO" />
 	</typeAliases>
 </configuration>
